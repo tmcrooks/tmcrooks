@@ -8,8 +8,7 @@ I am a full stack developer working with modern Javascript as a lead engineer.
 
 * 🌍  I'm based in Raleigh, NC
 * ✉️  You can contact me at [tmcrooks427@gmail.com](mailto:tmcrooks427@gmail.com)
-* 🧠  I'm learning Rust
-* ⚡  I am a Veteran of the United States Marine Corps
+* 🧠  I'm learning Next.js
 
 ### Skills
 
